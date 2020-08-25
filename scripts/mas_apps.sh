@@ -3,13 +3,13 @@
 set -e
 
 # get Apple ID
-echo ""
-echo "Enter AppleID to signin to App Store:"
+#echo ""
+#echo "Enter AppleID to signin to App Store:"
 # shellcheck disable=SC2039
-read -p "  AppleID (admin@example.com): " APPLEID
+#read -p "  AppleID (admin@example.com): " APPLEID
 
 # make sure signed into Mac App Store
-mas signin --dialog "$APPLEID"
+#mas signin --dialog "$APPLEID"
 
 # install macos apps
 # https://github.com/mas-cli/mas
