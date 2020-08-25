@@ -17,3 +17,4 @@ set -e
 mas install 526298438    # Lightshot Screenshot (2.22)
 mas install 803453959    # Slack (4.4.2)
 mas install 985584499    # Tawk.to (1.5)
+mas install 425264550    # Blackmagic Disk Speed Test (3.2)
