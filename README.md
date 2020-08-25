@@ -21,7 +21,7 @@ curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/br
 
 ## ⚡ Install Apps Store Apps
 ```
-curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/brew_apps.sh | sh
+curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/mas_apps.sh | sh
 ```
 ## ⚡ Copy Sensitive Creds
 - aws
