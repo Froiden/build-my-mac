@@ -1,4 +1,4 @@
-##  🗣   How to build the PC in just 30 minutes
+##  🗣   How to setup new Macbook in just 30 minutes
 
 ### 💪   Follow Below steps
 1. Install Xcode and Homebrew
