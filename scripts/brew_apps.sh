@@ -92,7 +92,8 @@ echo -e "\e[96m Installing wget  \e[39m"
 brew install wget
 
 echo -e "\e[96m Installing curl  \e[39m"
-brew install curlecho -e "\e[96m Installing curl  \e[39m"
+brew install curl
+
 
 echo -e "\e[96m Installing Composer  \e[39m"
 brew install composer
