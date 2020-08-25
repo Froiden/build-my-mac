@@ -18,6 +18,11 @@ brew update
 ```
 curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/brew_apps.sh | sh
 ```
+
+## ⚡ Install Apps Store Apps
+```
+curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/brew_apps.sh | sh
+```
 ## ⚡ Copy Sensitive Creds
 - aws
 ```
