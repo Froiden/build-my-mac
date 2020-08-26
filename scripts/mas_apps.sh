@@ -19,3 +19,4 @@ mas install 803453959    # Slack (4.4.2)
 mas install 985584499    # Tawk.to (1.5)
 mas install 425264550    # Blackmagic Disk Speed Test (3.2)
 mas install 1355679052   # Dropover - Easier Drag & Drop (3.6.6)
+mas install 1176895641   # Spark - Mail
