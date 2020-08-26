@@ -39,8 +39,7 @@ brew cask install evernote
 echo -e "\e[96m Installing Zoom  \e[39m"
 brew cask install zoom
 
-echo -e "\e[96m Installing spark  \e[39m"
-brew cask install spark
+
 
 
 echo -e "\e[96m Installing teamviewer  \e[39m"
@@ -56,7 +55,7 @@ echo -e "\e[96m Installing sublime-text  \e[39m"
 brew cask install sublime-text
 
 echo -e "\e[96m Installing google-drive  \e[39m"
-brew cask install google-drive
+brew cask install google-drive-file-stream
 
 echo -e "\e[96m Installing AnyDesk  \e[39m"
 brew cask install anydesk
