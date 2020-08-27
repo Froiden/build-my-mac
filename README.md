@@ -8,9 +8,6 @@ xcode-select --install
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-```
-brew update
-```
 
 ## ⚡ Install Apps
 ```
@@ -27,7 +24,7 @@ curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/ma
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
 
-###### Run below command to add that to add nv to bash file
+###### Run below command to add nvm to bash file
 ```bash
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
