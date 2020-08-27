@@ -12,7 +12,11 @@ xcode-select --install
 brew update
 ```
 
-
+## ⚡ Node Install install nvm/node
+```bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+nvm install stable
+```
 
 ## ⚡ Install Apps
 ```
