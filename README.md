@@ -15,6 +15,7 @@ curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/br
 ```
 
 ## ⚡ Install Apps Store Apps
+###### Note: You need to have logged to apple account before using the below command
 ```
 curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/mas_apps.sh | sh
 ```
