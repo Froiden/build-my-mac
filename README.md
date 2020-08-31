@@ -36,12 +36,6 @@ export NVM_DIR="$HOME/.nvm"
 nvm install stable
 ```
 
-## ⚡ Copy Sensitive Creds
-- aws
-```
-cp ~/.aws/config
-cp ~/.aws/credentials
-```
 
 ##  ⚡ Configure Git Profile 
 - Configure local Git profile
