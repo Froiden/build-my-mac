@@ -23,6 +23,7 @@ brew cask install upwork
 brew cask install phpstorm
 brew cask install free-download-manager
 brew cask install skype
+brew cask install zeplin
 
 
 ## CLI TOOLS
