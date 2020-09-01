@@ -7,7 +7,6 @@ brew cask install spectacle
 brew cask install google-chrome
 brew cask install postman
 brew cask install iterm2
-brew cask install filezilla
 brew cask install grammarly
 brew cask install spectacle
 brew cask install alfred
@@ -27,10 +26,7 @@ brew cask install zeplin
 
 
 ## CLI TOOLS
-brew install fortune
-brew install cowsay
 brew install git
-brew install vcprompt
 brew install awscli
 brew install wget
 brew install curl
