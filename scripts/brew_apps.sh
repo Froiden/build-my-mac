@@ -10,16 +10,16 @@ brew cask install spectacle
 brew cask install alfred
 brew cask install evernote
 brew cask install zoom
-brew cask install teamviewer
+#brew cask install teamviewer
 brew cask install vlc
 brew cask install hyperswitch
 brew cask install sublime-text
 brew cask install anydesk
-brew cask install upwork
-brew cask install phpstorm
+#brew cask install upwork
+#brew cask install phpstorm
 brew cask install free-download-manager
 brew cask install skype
-brew cask install zeplin
+#brew cask install zeplin
 brew cask install visual-studio-code
 
 ## CLI TOOLS
