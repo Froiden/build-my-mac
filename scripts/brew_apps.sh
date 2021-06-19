@@ -2,25 +2,25 @@
 
 ## MAC APPS
 # shellcheck disable=SC2039
-brew cask install slack
-brew cask install spectacle
-brew cask install google-chrome
-brew cask install iterm2
-brew cask install spectacle
-brew cask install alfred
-brew cask install evernote
-brew cask install zoom
+brew install --cask slack
+brew install --cask spectacle
+brew install --cask google-chrome
+brew install --cask iterm2
+brew install --cask spectacle
+brew install --cask alfred
+brew install --cask evernote
+brew install --cask zoom
 #brew cask install teamviewer
-brew cask install vlc
-brew cask install hyperswitch
-brew cask install sublime-text
-brew cask install anydesk
+brew install --cask vlc
+brew install --cask hyperswitch
+brew install --cask sublime-text
+brew install --cask anydesk
 #brew cask install upwork
 #brew cask install phpstorm
-brew cask install free-download-manager
-brew cask install skype
+brew install --cask free-download-manager
+brew install --cask skype
 #brew cask install zeplin
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 
 ## CLI TOOLS
 brew install git
